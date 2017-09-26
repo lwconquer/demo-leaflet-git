@@ -1,0 +1,10 @@
+.forms{
+    overflow-y: scroll;
+    height: 77vh;
+    margin-top: 7vh;
+    padding:15px
+}
+
+.betweenControl{
+    margin-bottom: 3vh;
+}
